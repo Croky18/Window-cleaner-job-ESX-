@@ -22,7 +22,8 @@ Deze job laat spelers ramen schoonmaken als onderdeel van een realistische schoo
 
 1. Download de bestanden en plaats de map in je `resources` folder.
 2. Download de mythic_progbar voor de job [verplicht] [https://github.com/TaemuruTempest/mythic_progbar]
-3. download de ox_lib voor de job [verplicht] [https://github.com/overextended/ox_lib]
-4. Voeg het script toe aan je `server.cfg`:
+3. Download de ox_lib voor de job [verplicht] [https://github.com/overextended/ox_lib]
+4. install SQL
+6. Voeg het script toe aan je `server.cfg`:
    ```cfg
    ensure Window-clainer-job
